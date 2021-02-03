@@ -8,8 +8,12 @@
 		</td>
 	</tr>
 	<tr>
-		<td>Location</td>
-		<td>Babylonia - Observatory</td>
+		<td>Singularity/Lostbelt</td>
+		<td>Babylonia</td>
+	</tr>
+	<tr>
+		<td>Quest Name</td>
+		<td>Observatory</td>
 	</tr>
 </table>
 
