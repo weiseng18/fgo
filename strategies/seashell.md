@@ -38,3 +38,5 @@ Arctic Mystic Code, Level 6
 ### Notes
 
 Jeanne NP gives 10 star regen per turn for 3 turns at base overcharge. This means at turn 3, there will be at least 20 stars.
+
+[[Back to main page]](../main.md)
