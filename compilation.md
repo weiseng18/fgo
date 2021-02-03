@@ -9,7 +9,7 @@ Since this is a personal compilation, there are certain personal restrictions th
 - do not use max bond servants
 - do not use mystic codes at level 9/10
 
-## Seashell <img src="./icons/Seashell.png" style="height:50px"/>
+## <div><span>Seashell</span> <img src="./icons/Seashell.png" style="height:50px; vertical-align:middle"/></div>
 
 Location: Babylonia - Observatory
 
