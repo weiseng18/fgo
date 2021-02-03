@@ -11,5 +11,25 @@ Since this is a personal compilation, there are certain personal restrictions th
 
 # Table of Contents
 
-- [Seashell](/strategies/seashell.md)
-- [Cherry](/strategies/cherry.md)
+<table>
+	<tr>
+		<th>Icon</th>
+		<th>Link</th>
+	</tr>
+	<tr>
+		<td>
+			<img src="./icons/Seashell of Reminiscence.png" height="50px"/>
+		</td>
+		<td>
+			<a href="/strategies/seashell.md">Seashell</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="./icons/Fruit of Longevity.png" height="50px"/>
+		</td>
+		<td>
+			<a href="/strategies/cherry.md">Cherry</a>
+		</td>
+	</tr>
+</table>
