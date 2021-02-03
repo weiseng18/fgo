@@ -32,4 +32,12 @@ Since this is a personal compilation, there are certain personal restrictions th
 			<a href="/strategies/cherry.md">Cherry</a>
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<img src="./icons/Demon Flame Lantern.png" height="50px"/>
+		</td>
+		<td>
+			<a href="/strategies/demon flame lantern.md">Demon Flame Lantern</a>
+		</td>
+	</tr>
 </table>
