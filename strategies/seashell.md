@@ -4,7 +4,7 @@
 	<tr>
 		<td>Material</td>
 		<td>
-			<img src="../icons/Seashell.png" height="50px"/>
+			<img src="../icons/Seashell of Reminiscence.png" height="50px"/>
 		</td>
 	</tr>
 	<tr>
