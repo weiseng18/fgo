@@ -12,3 +12,4 @@ Since this is a personal compilation, there are certain personal restrictions th
 # Table of Contents
 
 - [Seashell](/strategies/seashell.md)
+- [Cherry](/strategies/cherry.md)
