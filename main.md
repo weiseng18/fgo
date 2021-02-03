@@ -7,7 +7,7 @@ Since this is a personal compilation, there are certain personal restrictions th
 ### Restrictions
 
 - do not use max bond servants
-- do not use mystic codes at level 9/10
+- do not use mystic codes at level 9/10 as far as possible
 
 # Table of Contents
 
