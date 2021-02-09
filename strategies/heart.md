@@ -23,11 +23,11 @@
 
 Chaldea Pathfinder, Lvl 7
 
-| Servant                | NP Level | Skill Levels | Craft Essence              |
-| ---------------------- | -------- | ------------ | -------------------------- |
-| Ashiya Douman (Lvl 80) | NP 1     | 7/7/8        | Kaleidoscope (Level 40)    |
-| Sakamoto Ryouma        | NP 5     | 6/6/6        | Summer Painting (Level 95) |
-| Castoria (Support)     | -        | 10/10/10     | -                          |
+| Servant            | NP Level | Skill Levels | Craft Essence              |
+| ------------------ | -------- | ------------ | -------------------------- |
+| Ashiya Douman      | NP 1     | 7/7/10       | Kaleidoscope (Level 40)    |
+| Sakamoto Ryouma    | NP 5     | 6/6/6        | Summer Painting (Level 95) |
+| Castoria (Support) | -        | 10/10/10     | -                          |
 
 <img src="../comps/carter residence.jpeg"/>
 
@@ -41,8 +41,6 @@ Chaldea Pathfinder, Lvl 7
 
 ### Notes
 
-Limbo NP's damage would leave <3k HP on the 2 enemies in Wave 2, but there is an Instant-Kill chance and also face cards.
-
-Note that in this case, my Douman is level 80, and the skills 1 and 3 can still be levelled further, so a better levelled Douman should be able to clear Waves 1 and 2 without relying on Instant-Kill or face cards.
+Limbo NP's damage clears Waves 1 and 2 somewhat barely
 
 [[Back to main page]](../main.md)
