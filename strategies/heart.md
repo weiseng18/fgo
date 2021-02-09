@@ -26,7 +26,7 @@ Chaldea Pathfinder, Lvl 7
 | Servant            | NP Level | Skill Levels | Craft Essence              |
 | ------------------ | -------- | ------------ | -------------------------- |
 | Ashiya Douman      | NP 1     | 7/7/8        | Kaleidoscope (Level 40)    |
-| Sakamoto Ryouma    | NP 5     | 6/6/6        | Painting Summer (Level 95) |
+| Sakamoto Ryouma    | NP 5     | 6/6/6        | Summer Painting (Level 95) |
 | Castoria (Support) | -        | 10/10/10     | -                          |
 
 <img src="../comps/carter residence.jpeg"/>
