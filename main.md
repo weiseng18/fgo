@@ -40,4 +40,12 @@ Since this is a personal compilation, there are certain personal restrictions th
 			<a href="/strategies/demon flame lantern.md">Demon Flame Lantern</a>
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<img src="./icons/Heart of a Foreign God.png" height="50px"/>
+		</td>
+		<td>
+			<a href="/strategies/heart.md">Heart of a Foreign God</a>
+		</td>
+	</tr>
 </table>
