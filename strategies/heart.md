@@ -33,11 +33,11 @@ Chaldea Pathfinder, Lvl 7
 
 ### Actions
 
-| Wave | Skills                                              | NPs                               |
-| ---- | --------------------------------------------------- | --------------------------------- |
-| 1    | Ryouma 1, Castoria 1, MC 1 (on Douman)              | Douman NP                         |
-| 2    | Douman 13, Castoria 2 (on Douman)                   | Douman NP (might need face cards) |
-| 3    | Ryouma 23, Castoria 3 (on Ryouma), MC 3 (on Ryouma) | Ryouma NP + 10k facecard damage   |
+| Wave | Skills                                 | NPs                               |
+| ---- | -------------------------------------- | --------------------------------- |
+| 1    | Ryouma 1, Castoria 1, MC 1 (on Douman) | Douman NP                         |
+| 2    | Douman 13, Ryouma 2                    | Douman NP (might need face cards) |
+| 3    | Ryouma 3, Castoria 23 (on Ryouma)      | Ryouma NP + 10k facecard damage   |
 
 ### Notes
 
