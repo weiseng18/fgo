@@ -9,6 +9,8 @@ Since this is a personal compilation, there are certain personal restrictions th
 - do not use max bond servants
 - do not use mystic codes at level 9/10 as far as possible
 - strive to press fewer buttons (i.e. don't use skills unnecessarily)
+- strive to press buttons as early as possible/press in the same turn
+  - this potentially makes it more straightforward to complete a run
 
 # Table of Contents
 
