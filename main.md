@@ -51,4 +51,12 @@ Since this is a personal compilation, there are certain personal restrictions th
 			<a href="/strategies/heart.md">Heart of a Foreign God</a>
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<img src="./icons/Phoenix Feather.png" height="50px"/>
+		</td>
+		<td>
+			<a href="/strategies/feather.md">Phoenix Feather</a>
+		</td>
+	</tr>
 </table>
