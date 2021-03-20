@@ -16,6 +16,35 @@
 		<td>Carter Residence カーター家</td>
 	</tr>
 </table>
+## Sieg (2x) + Mecha Eli-chan (1x) - updated 20 Mar 2021
+
+### Composition
+
+Captain Chaldea, Lvl 7
+
+<img src="../comps/carter residence (sieg).jpeg"/>
+
+| Servant            | NP Level | Skill Levels | Craft Essence           |
+| ------------------ | -------- | ------------ | ----------------------- |
+| Sieg               | NP 5     | -/-/10       | Kaleidoscope (Level 51) |
+| Mecha Eli-chan     | NP 5     | -/10/9       | Aerial Dive (Level 100) |
+| Castoria (Support) | -        | 10/10/10     | -                       |
+
+### Actions
+
+| Wave | Skills                           | NPs               |
+| ---- | -------------------------------- | ----------------- |
+| 1    | Castoria 23 (on Sieg)            | Sieg NP           |
+| 2    | Sieg 3, Castoria 1               | Sieg NP           |
+| 3    | Mecha Eli-chan 23, MC 1 (on Eli) | Mecha Eli-chan NP |
+
+### Notes
+
+F2P friendly composition. Sieg loops well and does decent damage so his 1st and 2nd skills are not required.
+
+[[Back to main page]](../main.md)
+
+
 
 ## Ashiya Douman (2x) + Sakamoto Ryouma (1x) - updated 9 Feb 2021
 
