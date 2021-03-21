@@ -59,4 +59,12 @@ Since this is a personal compilation, there are certain personal restrictions th
 			<a href="/strategies/feather.md">Phoenix Feather</a>
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<img src="./icons/Deadly Poisonous Needle.png" height="50px"/>
+		</td>
+		<td>
+			<a href="/strategies/deadly poisonous needle.md">Deadly Poisonous Needle</a>
+		</td>
+	</tr>
 </table>
