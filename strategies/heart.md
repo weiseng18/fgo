@@ -16,11 +16,13 @@
 		<td>Carter Residence カーター家</td>
 	</tr>
 </table>
+
+
 ## Sieg (2x) + Mecha Eli-chan (1x) - updated 20 Mar 2021
 
 ### Composition
 
-Captain Chaldea, Lvl 7
+Mystic Code: Captain Chaldea, Lvl 7
 
 <img src="../comps/carter residence (sieg).jpeg"/>
 
@@ -50,7 +52,7 @@ F2P friendly composition. Sieg loops well and does decent damage so his 1st and 
 
 ### Composition
 
-Chaldea Pathfinder, Lvl 7
+Mystic Code: Chaldea Pathfinder, Lvl 7
 
 | Servant            | NP Level | Skill Levels | Craft Essence              |
 | ------------------ | -------- | ------------ | -------------------------- |

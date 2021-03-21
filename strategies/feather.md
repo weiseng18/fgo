@@ -22,7 +22,7 @@
 
 ### Composition
 
-Ceremonial New Year, Level 5
+Mystic Code: Ceremonial New Year, Level 5
 
 | Servant         | NP Level | Skill Levels | Craft Essence           |
 | --------------- | -------- | ------------ | ----------------------- |

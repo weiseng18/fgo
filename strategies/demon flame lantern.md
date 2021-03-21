@@ -21,7 +21,7 @@
 
 ### Composition
 
-Chaldea Pathfinder, Lvl 1
+Mystic Code: Chaldea Pathfinder, Lvl 1
 
 | Servant                | NP Level | Skill Levels | Craft Essence          |
 | ---------------------- | -------- | ------------ | ---------------------- |

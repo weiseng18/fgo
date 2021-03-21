@@ -21,7 +21,7 @@
 
 ### Composition
 
-Arctic Mystic Code, Level 6
+Mystic Code: Arctic Mystic Code, Level 6
 
 | Servant         | NP Level | Skill Levels | Craft Essence                 |
 | --------------- | -------- | ------------ | ----------------------------- |
