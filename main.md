@@ -67,4 +67,12 @@ Since this is a personal compilation, there are certain personal restrictions th
 			<a href="/strategies/deadly poisonous needle.md">Deadly Poisonous Needle</a>
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<img src="./icons/Void's Dust.png" height="50px"/>
+		</td>
+		<td>
+			<a href="/strategies/void's dust.md">Void's Dust</a>
+		</td>
+	</tr>
 </table>
