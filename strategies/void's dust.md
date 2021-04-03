@@ -18,6 +18,36 @@
 </table>
 
 
+## Space Ishtar (2x) + Mordred - updated 3 Apr 2021
+
+### Composition
+
+Mystic Code: Not used
+
+| Servant            | NP Level | Skill Levels | Craft Essence              |
+| ------------------ | -------- | ------------ | -------------------------- |
+| Space Ishtar       | NP 2     | 9/-/10       | Painting Summer (Level 96) |
+| Mordred            | NP 1     | 9/-/10       | Aerial Dive (Level 100)    |
+| Castoria (Support) | -        | 10/10/10     | -                          |
+
+<img src="../comps/gold rush (space ishtar).jpeg"/>
+
+### Actions
+
+| Wave | Skills                             | NPs        |
+| ---- | ---------------------------------- | ---------- |
+| 1    | Ishtar 1, Castoria 123 (on Ishtar) | Ishtar NP  |
+| 2    | Ishtar 3                           | Ishtar NP  |
+| 3    | Mordred 13                         | Mordred NP |
+
+### Notes
+
+Ishtar's 1st skill is for Mordred's NP.
+
+[[Back to main page]](../main.md)
+
+
+
 
 ## Summer Jeanne (3x) + Sakamoto Ryouma - updated 2 Apr 2021
 
