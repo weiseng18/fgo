@@ -83,5 +83,14 @@ Since this is a personal compilation, there are certain personal restrictions th
 			<a href="/strategies/seed.md">Yggdrasil Seed</a>
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<img src="./icons/Mystic Gunpowder.png" height="50px"/>
+		</td>
+		<td>
+			<a href="/strategies/gunpowder.md">Mystic Gunpowder</a>
+		</td>
+	</tr>
 </table>
+
 
