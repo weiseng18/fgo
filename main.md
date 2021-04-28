@@ -91,6 +91,15 @@ Since this is a personal compilation, there are certain personal restrictions th
 			<a href="/strategies/gunpowder.md">Mystic Gunpowder</a>
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<img src="./icons/Mystic Spinal Fluid.png" height="50px"/>
+		</td>
+		<td>
+			<a href="/strategies/spinal fluid.md">Mystic Spinal Fluid</a>
+		</td>
+	</tr>
 </table>
+
 
 
